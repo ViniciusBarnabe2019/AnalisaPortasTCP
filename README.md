@@ -7,7 +7,7 @@ Software Shell específico para varrer e analisar Portas TCP abertas na Rede Loc
 
 Esse Software vem com a finalidade de Vasculhar as Portas TCP Abertas em sua Rede Local, para posteriormente coletar dados referentes as origens dos IP's (Endereços Remotos) que estão conectados e se comunicando com sua máquina.
 
-Os dados obtidos são referente ao Provedor do IP, País do Provedor, Tipo de IP (IPV4 ou IPV6) e por fim, o próprio IP.
+Os dados obtidos serão salvos num arquivo texto na area de trabalho sua, e tais dados são referentes ao Provedor do IP, País do Provedor, Tipo de IP (IPV4 ou IPV6) e por fim, o próprio IP.
 
 ## Atenção:
 1- O Software usa Scripts Power Shell para poder Vasculhar as Portas TCP e consumir a API de Provedores de IP mais famosos atualmente!
